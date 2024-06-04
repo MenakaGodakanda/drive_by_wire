@@ -71,11 +71,13 @@ To set up the project on your local machine, follow these steps:
    cd build
    cmake ..
    ```
+![Screenshot 2024-06-05 061356](https://github.com/MenakaGodakanda/drive_by_wire/assets/156875412/bfd19bbb-267b-4e91-8181-c64bad829572)
 
 3. Build the project:
    ```
    make
    ```
+![Screenshot 2024-06-05 061407](https://github.com/MenakaGodakanda/drive_by_wire/assets/156875412/6c07b4c2-728d-4c83-b62e-12d423afe263)
 
 ## Usage
 
@@ -89,6 +91,7 @@ When you run the main executable (drive_by_wire), the program creates an instanc
 
 <Image>
 
+![Screenshot 2024-06-05 061419](https://github.com/MenakaGodakanda/drive_by_wire/assets/156875412/2696fae3-b6a0-4a31-962e-011cb75287e9)
 
 
 ## Running Tests
@@ -108,6 +111,7 @@ ctest
 ### Output of Test
 Running the unit tests with ctest produces output indicating whether the tests have passed or failed. These tests validate the behavior of the DriveByWireVehicle and the ControlSystem to ensure they function correctly. Each test executable will also print detailed information about the test cases it runs, which helps in identifying the exact point of failure if any test fails.
 
+![Screenshot 2024-06-05 061429](https://github.com/MenakaGodakanda/drive_by_wire/assets/156875412/34015fb8-fb16-4310-8ed8-6111a4fbc086)
 
 <Image>
 
