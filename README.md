@@ -91,7 +91,7 @@ When you run the main executable (drive_by_wire), the program creates an instanc
 
 <Image>
 
-![Screenshot 2024-06-05 061419](https://github.com/MenakaGodakanda/drive_by_wire/assets/156875412/2696fae3-b6a0-4a31-962e-011cb75287e9)
+![Screenshot 2024-06-05 061419](https://github.com/MenakaGodakanda/drive_by_wire/assets/156875412/8f2f105d-0aa7-4283-b920-6fa7eea7313d)
 
 
 ## Running Tests
