@@ -5,6 +5,18 @@ A drive-by-wire system replaces traditional mechanical and hydraulic control sys
 ## Drive-by-wire
 Drive-by-wire refers to a system that replaces traditional mechanical and hydraulic control systems in a vehicle with electronic control systems. These systems use electronic signals to control various functions such as steering, braking, and throttle. The key components and functions of a drive-by-wire system include:
 
+1. Throttle-by-Wire:
+    - Traditional System: A physical cable connects the accelerator pedal to the throttle body.
+    - Drive-by-Wire: The accelerator pedal is connected to a sensor that sends electronic signals to an actuator on the throttle body.
+
+2. Brake-by-Wire:
+    - Traditional System: A hydraulic system with brake fluid and mechanical linkages.
+    - Drive-by-Wire: Sensors and actuators control the braking force, with electronic signals replacing hydraulic lines.
+
+3. Steer-by-Wire:
+    - Traditional System: Mechanical linkages connect the steering wheel to the wheels.
+    - Drive-by-Wire: Sensors on the steering wheel send electronic signals to motors or actuators at the wheels.
+
 ## Features of the project:
 1. Vehicle Interface Abstraction
   - Interface Definition: The project defines a `VehicleInterface` class that provides pure virtual functions for essential vehicle controls: `accelerate`, `brake`, and `steer`.
